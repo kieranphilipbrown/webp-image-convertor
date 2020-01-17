@@ -18,3 +18,7 @@ Run Gulp Convert command.
     gulp convert
 
 Converted assets should now be in the dist folder.
+
+## To Do
+- Use browserSync to create local server and display images (before/after) for the user to compare.
+- Add slider to adjust quality setting.
