@@ -1,4 +1,4 @@
-## 🥤Gulp Image to WebP Convertor
+## 🥤🖼️ Gulp Image to WebP Convertor
 
 A basic Gulp 4 app to convert images to WebP format.
 
